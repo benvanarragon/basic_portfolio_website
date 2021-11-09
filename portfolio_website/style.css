@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-size: 6vw;
+}
+
+p{
+    text-align: center;
+    font-size: 3vw;
+}
+
+img{
+    width: 20%;
+    height: auto;
+    
+    
+}
+
+.pictures_container{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+}
+
+html{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+header{
+    font-size: 2vw;
+}
